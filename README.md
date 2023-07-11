@@ -22,8 +22,13 @@ Analyze the vast amount of sales data, identify profit/loss trends, and uncover 
 - Gender,
 - Product and Product category etc.
 
-- ## DATA TRANSFORMATION:
-- ![](
-- . With the use of slicers that connect all pivot tables and pivot charts even as you click, everything is dynamic depending on what you want to view,I also incorporated visually compelling charts and graphs to make the dashboard intuitive and easy to comprehend for stakeholders at all levels.
+ ## DATA TRANSFORMATION:
+ With the use of tables that I use to clean and transform the data set
+ ![](MY TABLE.PNG)
+
+  pivot tables and pivot charts even as you click, everything is dynamic depending on what you want to view.
+![](PIVOT1.PNG)
+![](PIVOT2.PNG)
+I also incorporated visually compelling charts and graphs to make the dashboard intuitive and easy to comprehend for stakeholders at all levels.
 
 ## DASHBOARD VISUALISATION  
