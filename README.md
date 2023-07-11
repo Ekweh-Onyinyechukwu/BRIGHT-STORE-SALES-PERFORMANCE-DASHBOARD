@@ -30,9 +30,20 @@ Analyze the vast amount of sales data, identify profit/loss trends, and uncover 
 ![](PIVOT2.PNG)
 
 ## DASHBOARD VISUALISATION: 
-I also incorporated visually compelling charts and graphs to make the dashboard intuitive and easy to comprehend for stakeholders at all levels.
-![](dashboard.PNG)
+I also incorporated visually compelling charts and graphs,also slicers and timeline to make the dashboard intuitive and easy to comprehend for stakeholders at all levels.
 ![](
 
 ## ANALYSIS:
+- a total revenue for 2015 was 9,947,770.04
+- b total cost was 9,659,147.21
+- c total profit/loss was 288,622.83
+- trend of profit/loss for 2015 shows that there was a sharp rise of profit fro the month of may
+- d adults had the most profit by customer age group which is 150,000
+- e number of sales by sales person was Haliton with71696.04 sales
+- f most profit by customer gender is the male gender with 167812.25
+- g accessories had the most profit by product category with 25,855
+
+ ![](new2.PNG)
+- 
+  
 
