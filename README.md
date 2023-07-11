@@ -26,6 +26,7 @@ Analyze the vast amount of sales data, identify profit/loss trends, and uncover 
  ![](TABLE.PNG)
 
  Pivot tables and pivot charts all connected to the slicers as you click, everything is dynamic depending on what you want to view.
+ 
 ![](PIVOT1.PNG)
 ![](PIVOT2.PNG)
 
