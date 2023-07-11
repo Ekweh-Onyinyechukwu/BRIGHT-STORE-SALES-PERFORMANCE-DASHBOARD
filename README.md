@@ -1,1 +1,1 @@
-# Bright-store-sales-performance-dashboard.
+# Bright-store-sales-performance-dashboard
