@@ -15,20 +15,24 @@ Analyze the vast amount of sales data, identify profit/loss trends, and uncover 
 ## DATA SOURCING:
 - Total revenue
 - Total cost
-- Number of Sales,
 - Total Profit/Loss,
-- Location,
+- Trend of profit/loss
 - Sales person,
 - Gender,
 - Product and Product category etc.
 
  ## DATA TRANSFORMATION:
  With the use of tables that I use to clean and transform the data set
- ![](MY TABLE.PNG)
+ ![](TABLE.PNG)
 
-  pivot tables and pivot charts even as you click, everything is dynamic depending on what you want to view.
+ Pivot tables and pivot charts even as you click, everything is dynamic depending on what you want to view.
 ![](PIVOT1.PNG)
 ![](PIVOT2.PNG)
-I also incorporated visually compelling charts and graphs to make the dashboard intuitive and easy to comprehend for stakeholders at all levels.
 
-## DASHBOARD VISUALISATION  
+## DASHBOARD VISUALISATION: 
+I also incorporated visually compelling charts and graphs to make the dashboard intuitive and easy to comprehend for stakeholders at all levels.
+![](dashboard.PNG)
+![](
+
+## ANALYSIS:
+
