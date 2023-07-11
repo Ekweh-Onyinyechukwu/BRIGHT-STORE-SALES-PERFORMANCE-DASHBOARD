@@ -35,28 +35,28 @@ I also incorporated visually compelling charts and graphs,slicers and timeline t
 ![](new3.PNG)
 
 ## ANALYSIS FOR 2015:
-- a total revenue was 9,947,770.04
-- b total cost was 9,659,147.21
-- c total profit/loss was 288,622.83
-- trend of profit/loss for 2015 shows that there was a sharp rise of profit fro the month of may
-- d adults had the most profit by customer age group which is 150,000
-- e number of sales by sales person was Haliton with71696.04 sales
-- f most profit by customer gender is the male gender with 167812.25
-- g accessories had the most profit by product category with 150,000
-- H sat.had the most profit by days of the week with the amount 25,855
+- a. total revenue was 9,947,770.04
+- b.total cost was 9,659,147.21
+- c.total profit/loss was 288,622.83
+- d.trend of profit/loss for 2015 shows that there was a sharp rise of profit fro the month of may
+- e. adults had the most profit by customer age group which is 150,000
+- f. number of sales by sales person was Haliton with71696.04 sales
+- g. most profit by customer gender is the male gender with 167812.25
+- h. accessories had the most profit by product category with 150,000
+- i. sat.had the most profit by days of the week with the amount 25,855
 
  ![](new2.PNG)
 
  ## ANALYSIS FOR 2016:
- - a total revenue was 12,396,804
-- b total cost was 10,423,818.81
-- c total profit/loss was 1,972,985.85
-- trend of profit/loss for 2015 shows that there was maximum profit all through
-- d adults had the most profit by customer age group which is 150,000
-- e number of sales by sales person was Perez with 410836.6 sales
-- f most profit by customer gender is the male gender with 101,3538.21
-- g accessories had the most profit by product category with 500,00
-- H fri..had the most profit by days of the week with the amount 23,152 in the thrid quarter
+ - a. total revenue was 12,396,804
+- b. total cost was 10,423,818.81
+- c. total profit/loss was 1,972,985.85
+- d.trend of profit/loss for 2015 shows that there was maximum profit all through
+- e. adults had the most profit by customer age group which is 150,000
+- f. number of sales by sales person was Perez with 410836.6 sales
+- g. most profit by customer gender is the male gender with 101,3538.21
+- h. accessories had the most profit by product category with 500,00
+- i. fri..had the most profit by days of the week with the amount 23,152 in the thrid quarter
  
   ## CONCLUSION:
   By leveraging the capabilities of MS Excel as valuable tool to monitor performance, and identify areas for improvement this will enable the Bright store team to make data-driven decisions, optimize sales strategies, and ultimately enhance the overall profitability of the business.
