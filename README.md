@@ -22,10 +22,10 @@ Analyze the vast amount of sales data, identify profit/loss trends, and uncover 
 - Product and Product category etc.
 
  ## DATA TRANSFORMATION:
- With the use of tables that I use to clean and transform the data set
+ With the use of tables that I cleaned and transformed the data set
  ![](TABLE.PNG)
 
- Pivot tables and pivot charts even as you click, everything is dynamic depending on what you want to view.
+ Pivot tables and pivot charts all connected to the slicers as you click, everything is dynamic depending on what you want to view.
 ![](PIVOT1.PNG)
 ![](PIVOT2.PNG)
 
